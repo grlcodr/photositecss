@@ -1,0 +1,1 @@
+A simple photo blog style site to practise CSS styling.
